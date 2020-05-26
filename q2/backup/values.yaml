@@ -1,0 +1,4 @@
+# This file holds per-cluster customisations to helm charts
+# It is meant to be used with as an argument to helm in the form of `-f values.yaml`
+---
+openshift-monitoring:

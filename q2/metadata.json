@@ -1,0 +1,1 @@
+{"clusterName":"q2","clusterID":"dffdd9f4-61c8-4db4-9600-c547e3909482","infraID":"q2-jcgqk","aws":{"region":"ap-southeast-2","identifier":[{"kubernetes.io/cluster/q2-jcgqk":"owned"},{"openshiftClusterID":"dffdd9f4-61c8-4db4-9600-c547e3909482"}]}}
